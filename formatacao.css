@@ -42,8 +42,8 @@
     
     img {
       max-width: 100%;
-      width: 350px;
-      height: 250px;
+      width: 550px;
+      height: 450px;
     }
     
     form {
@@ -100,4 +100,9 @@ video{
 }
 .carro1{
   width: 900px;
+}
+.march{
+  width: 450px;
+  height: 400px;
+  padding-right: 5px;
 }
