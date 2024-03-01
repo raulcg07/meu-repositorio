@@ -1,0 +1,103 @@
+    header {
+      padding: 20px;
+      margin-bottom: 20px;
+      margin-top: 20px;
+    }
+    
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    nav li {
+      display: inline;
+    }
+    
+    nav a {
+      text-decoration: none;
+      padding: 10px;
+      color: black;
+    }
+    
+    section {
+      padding-top: 15px;
+      padding-left: 50px;
+      padding-right: 50px;
+    }
+    
+    h1, h2, h3 {
+      color: #333;
+      text-align: center;
+    }
+    
+    p {
+      color: #666;
+    }
+    
+    .carro {
+      margin-bottom: 30px;
+    }
+    
+    img {
+      max-width: 100%;
+      width: 550px;
+      height: 450px;
+    }
+    
+    form {
+      max-width: 500px;
+      margin: 0 auto;
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    
+    input[type="text"], input[type="email"], textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    
+    input[type="submit"] {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      margin-top: 50px;
+    }
+.logo{
+  width: 100px;
+  height: 80px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+video{
+  max-width: 100%;
+      width: 800px;
+      height: 50%;
+}
+.encontro{
+  display:inline;
+  justify-content: center;
+  align-items: center;
+  position: center;
+}
+.carro1{
+  width: 900px;
+}
